@@ -44,3 +44,7 @@ Functionality:
 - Tell jokes.
 - Provide the current date and time.
 - Attempt to answer general questions by finding the most similar pre-defined response in its knowledge base
+
+  ## OUTPUT
+
+  ![Image](https://github.com/user-attachments/assets/f0fe6d60-a484-4300-b8d5-716e24d2ce2d)
